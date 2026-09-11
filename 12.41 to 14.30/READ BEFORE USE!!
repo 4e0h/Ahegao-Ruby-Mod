@@ -1,0 +1,9 @@
+Compatibility: Works for versions 12.41 all the way to 14.30
+
+1. Navigate to your Paks folder:
+Yourbuild\FortniteGame\Content\Paks
+
+2. Find any .sig file above 250kb, then copy and paste it to duplicate it.
+
+3. Rename the copied .sig file to exactly this:
+pakchunkAhegaoRuby-WindowsClient.sig
