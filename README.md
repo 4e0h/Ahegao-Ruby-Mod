@@ -15,6 +15,7 @@ Ahegao ruby mod for v10.40, v12.41 to v14.30, and v14.60 of Fortnite.
     <li>v10.40</li>
     <li>v12.41 to v14.30</li>
     <li>v14.60</li>
+    <li>v16.40</li>
   </ul>
 </details>
 
